@@ -1,4 +1,5 @@
-# ![sel4m AI](https://img.shields.io/badge/SEL4M-AI-blue)
+#  <img alt="Static Badge" src="https://img.shields.io/badge/%20SEL4M-_AI-blue?style=for-the-badge">
+
 
 
 
