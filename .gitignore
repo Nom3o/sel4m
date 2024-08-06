@@ -1,10 +1,19 @@
+# Ignore static files
+/static/css/styles.css
+/static/js/main.js
+/static/instructions/blink_your_eyes.mp3
+/static/instructions/open_your_mouth.mp3
+
+# Ignore template files
+/templates/index.html
+/templates/landing.html
+/templates/landing.js
+/templates/script.js
+
+# Ignore Python script files
+app.py
 
 
-#Trained AI models
-models/
 
-#a landing page
-templates/
-
-#main pages
-*.py
+# Ignore virtual environment folder
+venv/
