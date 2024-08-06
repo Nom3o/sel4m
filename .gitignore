@@ -1,0 +1,10 @@
+
+
+#Trained AI models
+models/
+
+#a landing page
+templates/
+
+#main pages
+*.py
