@@ -1,7 +1,5 @@
 # ![sel4m AI](https://img.shields.io/badge/SEL4M-AI-blue)
 
-`selam AI`
-
 
 
 #  Stacks:
