@@ -1,2 +1,2 @@
 # sel4m
-'selam AI'
+`selam AI`
